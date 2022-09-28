@@ -2,4 +2,5 @@
 #Kassidy Robinson
 # Naomy Sanchez
 # Hunter Hawkins
-# New Line
+# Megan Ellis
+# Jonathan Miller
